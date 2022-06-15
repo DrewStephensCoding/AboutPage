@@ -1,7 +1,7 @@
 # AboutPage
 Android library for easily creating an about page for your Android apps.
 
-```
+```kotlin
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
