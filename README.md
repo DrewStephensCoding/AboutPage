@@ -53,6 +53,8 @@ dependencies {
 ### Sample application
 For additional information on how to use this library, check out the [sample application](https://github.com/DrewStephensCoding/AboutPage/tree/master/app).
 
+![alt text](https://github.com/DrewStephensCoding/AboutPage/blob/master/AboutPagePoster.png)
+
 ### Contributing
 If you would like to contribute code you can do so through GitHub by forking the repository and sending a pull request.
 When submitting code, please make every effort to follow existing conventions and style in order to keep the code as readable as possible.
