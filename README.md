@@ -5,7 +5,6 @@ Android library for easily creating an about page for your Android apps.
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
 
         setContentView(AboutPage(this)
             .setBackground(androidx.appcompat.R.attr.colorPrimary)
