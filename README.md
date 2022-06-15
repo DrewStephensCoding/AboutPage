@@ -1,7 +1,7 @@
 # AboutPage
 Android library for easily creating an about page for your Android apps.
 
-'''
+```
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
             .create())
     }
 }
-'''
+```
 
 This library is based on:
 -  [Android About Page](https://github.com/medyo/android-about-page) by [Mehdi Sakout](https://github.com/medyo) which was written entirely in Java. 
