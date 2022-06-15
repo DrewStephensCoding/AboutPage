@@ -32,3 +32,27 @@ This library is based on:
 -  Added LinkedIn Link
 
 This project is my first attempt at developing an Android Library 
+
+
+### Download
+1. Add below code in your root build.gradle at the end of repositories
+```groovy
+allprojects {
+    repositories {
+        ...
+        maven { url 'https://jitpack.io' }
+    }
+}
+```
+2. Add the dependency
+```groovy
+dependencies {
+    implementation 'com.github.DrewStephensCoding:AboutPage:0.1.0'
+}
+```
+### Sample application
+For additional information on how to use this library, check out the [sample application](https://github.com/DrewStephensCoding/AboutPage/tree/master/app).
+
+### Contributing
+If you would like to contribute code you can do so through GitHub by forking the repository and sending a pull request.
+When submitting code, please make every effort to follow existing conventions and style in order to keep the code as readable as possible.
